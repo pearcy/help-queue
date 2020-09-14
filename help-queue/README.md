@@ -1,5 +1,7 @@
 # Help Queue
 
+### Joseph P, Hanna B, Ian S
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
